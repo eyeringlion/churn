@@ -1,0 +1,1 @@
+"use strict";angular.module("sbAdminApp").controller("MainCtrl",function($scope,$position,$http){console.log("test"),$scope.paymentCount=0});
